@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohammedAlfatlwei
-- 👀 I’m interested in coding and softwarre engineering 
+- 👀 I’m interested in coding and software engineering 
 - 🌱 I’m currently learning git & github & java 
 - 💞️ I’m looking to collaborate on github with my colleagues 
 - 📫 How to reach me ... reach me on my email mohya992@gmail.com
